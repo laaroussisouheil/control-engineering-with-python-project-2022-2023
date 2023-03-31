@@ -10,11 +10,11 @@ Your team: group number 4
 
   - Student 1:  ( LAAROUSSI + Souheil + laaroussisouheil, for example Sébastien Boisgérault `boisgera`)
 
-  - Student 2: ❔ (GNANE + Souhail + souhailgnane , for example Sébastien Boisgérault `boisgera`)
+  - Student 2: (GNANE + Souhail + souhailgnane , for example Sébastien Boisgérault `boisgera`)
   
-  - Student 3: ❔ (BOULANDOM  + Hamza + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 3: (BOULANDOM  + Hamza + `github user name`, for example Sébastien Boisgérault `boisgera`)
 
-  - Student 4: ❔ (MAKHLOUF + Youssef + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 4: (MAKHLOUF + Youssef + `github user name`, for example Sébastien Boisgérault `boisgera`)
 
 ## Getting Started
 
