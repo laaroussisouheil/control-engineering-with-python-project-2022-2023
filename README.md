@@ -14,7 +14,7 @@ Your team: group number 4
   
   - Student 3: (BOULANDOM  + Hamza + `github user name`)
 
-  - Student 4: (MAKHLOUF + Youssef + `github user name`)
+  - Student 4: (MAKHLOUF + Youssef + yocefmakhlouf)
 
 ## Getting Started
 
