@@ -12,7 +12,7 @@ Your team: group number 4
 
   - Student 2: (GNANE + Souhail + souhailgnane )
   
-  - Student 3: (BOULANDOM  + Hamza + `github user name`)
+  - Student 3: (BOULANDOM  + Hamza + hamzaboulandoum)
 
   - Student 4: (MAKHLOUF + Youssef + yocefmakhlouf)
 
